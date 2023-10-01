@@ -1,0 +1,14 @@
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\bin\Debug\net7.0\example001_helloConsole.exe
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\bin\Debug\net7.0\example001_helloConsole.deps.json
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\bin\Debug\net7.0\example001_helloConsole.runtimeconfig.json
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\bin\Debug\net7.0\example001_helloConsole.dll
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\bin\Debug\net7.0\example001_helloConsole.pdb
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.AssemblyInfoInputs.cache
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.AssemblyInfo.cs
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.csproj.CoreCompileInputs.cache
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.dll
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\obj\Debug\net7.0\refint\example001_helloConsole.dll
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.pdb
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\obj\Debug\net7.0\example001_helloConsole.genruntimeconfig.cache
+E:\VsCodeGB\FrstMtPrgLngL1\example001_helloConsole\obj\Debug\net7.0\ref\example001_helloConsole.dll
