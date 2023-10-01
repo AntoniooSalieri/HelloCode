@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\VsCodeGB\\FrstMtPrgLngL1\\HelloCode\\example001_helloConsole\\example001_helloConsole.csproj": {}
+    "e:\\VsCodeGB\\FrstMtPrgLngL1\\example001_helloConsole\\example001_helloConsole.csproj": {}
   },
   "projects": {
-    "e:\\VsCodeGB\\FrstMtPrgLngL1\\HelloCode\\example001_helloConsole\\example001_helloConsole.csproj": {
+    "e:\\VsCodeGB\\FrstMtPrgLngL1\\example001_helloConsole\\example001_helloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\VsCodeGB\\FrstMtPrgLngL1\\HelloCode\\example001_helloConsole\\example001_helloConsole.csproj",
+        "projectUniqueName": "e:\\VsCodeGB\\FrstMtPrgLngL1\\example001_helloConsole\\example001_helloConsole.csproj",
         "projectName": "example001_helloConsole",
-        "projectPath": "e:\\VsCodeGB\\FrstMtPrgLngL1\\HelloCode\\example001_helloConsole\\example001_helloConsole.csproj",
+        "projectPath": "e:\\VsCodeGB\\FrstMtPrgLngL1\\example001_helloConsole\\example001_helloConsole.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "e:\\VsCodeGB\\FrstMtPrgLngL1\\HelloCode\\example001_helloConsole\\obj\\",
+        "outputPath": "e:\\VsCodeGB\\FrstMtPrgLngL1\\example001_helloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
